@@ -90,6 +90,8 @@ span{
 }
 
 #bars{
+   width: 30px;        /* fixed width */
+  height: 30px;
    background: red;
 
 }
@@ -107,4 +109,5 @@ span{
 
 
     
+
 
