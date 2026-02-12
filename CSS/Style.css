@@ -92,7 +92,7 @@ span{
 #bars{
    width: 40px;        /* fixed width */
   height: 20px;
-  background: #00eaff;
+  background: maroon;
   font-size: 10px;
   text-align: center;
   font-weight: bold;
@@ -112,6 +112,7 @@ span{
 
 
     
+
 
 
 
