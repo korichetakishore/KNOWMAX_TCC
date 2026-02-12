@@ -90,9 +90,12 @@ span{
 }
 
 #bars{
-   width: 30px;        /* fixed width */
-  height: 30px;
-   background: red;
+   width: 40px;        /* fixed width */
+  height: 20px;
+  background: red;
+  font-size: 8px;
+  text-align: center;
+  font-weight: bold;
 
 }
 
@@ -109,5 +112,6 @@ span{
 
 
     
+
 
 
